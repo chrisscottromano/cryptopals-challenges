@@ -1,0 +1,257 @@
+Plaintext: Ieeacdm*GI-y*fcao*k*zedn*el*hkied | Score: 0.69 | Key: R
+Plaintext: iEEACDMgiYFCAOKZE_DNELHKIED | Score: 0.69 | Key: r
+Plaintext: Cooking MC's like a pound of bacon | Score: 0.71 | Key: X
+Plaintext: cOOKINGmcSLIKEAPOUNDOFBACON | Score: 0.71 | Key: x
+Plaintext: Eiimoha&KE!u&jomc&g&vishb&i`&dgeih | Score: 0.77 | Key: ^
+Plaintext: eIIMOHAkeUJOMCGVISHBI@DGEIH | Score: 0.77 | Key: ~
+Plaintext: Dhhlni`'JD t'knlb'f'whric'ha'efdhi | Score: 0.79 | Key: _
+Plaintext: dHHLNI@jdTKNLBFWHRICHAEFDHI | Score: 0.79 | Key: 
+Plaintext: Bnnjhof!LB&r!mhjd!`!qntoe!ng!c`bno | Score: 0.81 | Key: Y
+Plaintext: bNNJHOFlbRMHJD@QNTOENGC@BNO | Score: 0.81 | Key: y
+Plaintext: L``dfah/BL(|/cfdj/n/`zak/`i/mnl`a | Score: 0.83 | Key: W
+Plaintext: l@@DFAHbl\CFDJN_@ZAK@IMNL@A | Score: 0.83 | Key: w
+Plaintext: Maaeg`i.CM)}.bgek.o.~a{`j.ah.loma` | Score: 0.85 | Key: V
+Plaintext: mAAEG@Icm]BGEKO^A[@JAHLOMA@ | Score: 0.85 | Key: v
+Plaintext: Ammikle"OA%q"nkig"c"rmwlf"md"`caml | Score: 0.86 | Key: Z
+Plaintext: aMMIKLEoaQNKIGCRMWLFMD@CAML | Score: 0.86 | Key: z
+Plaintext: Hdd`bel+FH,x+gb`n+j+{d~eo+dm+ijhde | Score: 0.89 | Key: S
+Plaintext: hDD@BELfhXGB@NJ[D^EODMIJHDE | Score: 0.89 | Key: s
+Plaintext: S{y~w0]S7c0|y{u0q0`e~t0v0rqs~ | Score: 0.89 | Key: H
+Plaintext: s__[Y^W}sC\Y[UQ@_E^T_VRQS_^ | Score: 0.89 | Key: h
+Plaintext: **.,+"eb6e),. e$e5*0+!e*#e'$&*+ | Score: 0.92 | Key: 
+Plaintext: &E(&BEEEEE | Score: 0.92 | Key: =
+Plaintext: @llhjmd#N@$p#ojhf#b#slvmg#le#ab`lm | Score: 0.93 | Key: [
+Plaintext: `LLHJMDn`POJHFBSLVMGLEAB@LM | Score: 0.93 | Key: {
+Plaintext: Q}}y{|u2_Q5a2~{yw2s2b}g|v2}t2psq}| | Score: 0.93 | Key: J
+Plaintext: q]]Y[\UqA^[YWSB]G\V]TPSQ]\ | Score: 0.93 | Key: j
+Plaintext: R~~zxv1\R6b1}xzt1p1a~du1~w1spr~ | Score: 0.95 | Key: I
+Plaintext: r^^ZX_V|rB]XZTPA^D_U^WSPR^_ | Score: 0.95 | Key: i
+Plaintext: ^rrvtsz=P^:n=qtvx=|=mrhsy=r{=|~rs | Score: 0.95 | Key: E
+Plaintext: ~RRVTSZp~NQTVX\MRHSYR[_\^RS | Score: 0.95 | Key: e
+Plaintext: ;;?=:3ts't8=?1t5t$;!:0t;2t657;: | Score: 0.97 | Key: 
+Plaintext: 7T97STTTTT | Score: 0.97 | Key: ,
+Plaintext: Occgebk,AO+,`egi,m,|cybh,cj,nmocb | Score: 0.97 | Key: T
+Plaintext: oCCGEBKao_@EGIM\CYBHCJNMOCB | Score: 0.97 | Key: t
+Plaintext: _sswur{<Q_;o<puwy<}<lsirx<sz<~}sr | Score: 0.98 | Key: D
+Plaintext: SSWUR[qOPUWY]LSIRXSZ^]_SR | Score: 0.98 | Key: d
+Plaintext: //+).'`g3`,)+%`!`0/5.$`/&`"!#/. | Score: 0.99 | Key: 
+Plaintext: #@-#G@@@@@ | Score: 0.99 | Key: 8
+Plaintext: 115709~y-~275;~?~.1+0:~18~<?=10 | Score: 0.99 | Key: 
+Plaintext: =^3=Y^^^^^ | Score: 0.99 | Key: &
+Plaintext: Kggcafo(EK/{(dacm(i(xg}fl(gn(jikgf | Score: 1.00 | Key: P
+Plaintext: kGGCAFOek[DACMIXG]FLGNJIKGF | Score: 1.00 | Key: p
+Plaintext: $&!(oh<o#&$*o.o? :!+o )o-., ! | Score: 1.00 | Key: 
+Plaintext: ,O",HOOOOO | Score: 1.00 | Key: 7
+Plaintext: ..*(/&af2a-(*$a a1.4/%a.'a# "./ | Score: 1.00 | Key: 
+Plaintext: "A,"FAAAAA | Score: 1.00 | Key: 9
+Plaintext: 44025<{|({720>{:{+4.5?{4={9:845 | Score: 1.00 | Key: 
+Plaintext: 33752;|{/|0579|=|,3)28|3:|>=?32 | Score: 1.00 | Key: 
+Plaintext: 8[68\[[[[[ | Score: 1.00 | Key: #
+Plaintext: ?\1?[\\\\\ | Score: 1.00 | Key: $
+Plaintext: ··³±¶¿øÿ«ø´±³½ø¹ø¨·­¶¼ø·¾øº¹»·¶ | Score: 1.00 | Key: 
+Plaintext: ¶¶²°·¾ùþªùµ°²¼ù¸ù©¶¬·½ù¶¿ù»¸º¶· | Score: 1.00 | Key: 
+Plaintext: µµ±³´½úý©ú¶³±¿ú»úªµ¯´¾úµ¼ú¸»¹µ´ | Score: 1.00 | Key: 
+Plaintext: ´´°²µ¼ûü¨û·²°¾ûºû«´®µ¿û´½û¹º¸´µ | Score: 1.00 | Key: 
+Plaintext: ³³·µ²»üû¯ü°µ·¹ü½ü¬³©²¸ü³ºü¾½¿³² | Score: 1.00 | Key: 
+Plaintext: ²²¶´³ºýú®ý±´¶¸ý¼ý­²¨³¹ý²»ý¿¼¾²³ | Score: 1.00 | Key: 
+Plaintext: ±±µ·°¹þù­þ²·µ»þ¿þ®±«°ºþ±¸þ¼¿½±° | Score: 1.00 | Key: 
+Plaintext: °°´¶±¸ÿø¬ÿ³¶´ºÿ¾ÿ¯°ª±»ÿ°¹ÿ½¾¼°± | Score: 1.00 | Key: 
+Plaintext: ¿¿»¹¾·ð÷£ð¼¹»µð±ð ¿¥¾´ð¿¶ð²±³¿¾ | Score: 1.00 | Key: 
+Plaintext: ¾¾º¸¿¶ñö¢ñ½¸º´ñ°ñ¡¾¤¿µñ¾·ñ³°²¾¿ | Score: 1.00 | Key: 
+Plaintext: ½½¹»¼µòõ¡ò¾»¹·ò³ò¢½§¼¶ò½´ò°³±½¼ | Score: 1.00 | Key: 
+Plaintext: ¼¼¸º½´óô ó¿º¸¶ó²ó£¼¦½·ó¼µó±²°¼½ | Score: 1.00 | Key: 
+Plaintext: »»¿½º³ôó§ô¸½¿±ôµô¤»¡º°ô»²ô¶µ·»º | Score: 1.00 | Key: 
+Plaintext: ºº¾¼»²õò¦õ¹¼¾°õ´õ¥º »±õº³õ·´¶º» | Score: 1.00 | Key: 
+Plaintext: ¹¹½¿¸±öñ¥öº¿½³ö·ö¦¹£¸²ö¹°ö´·µ¹¸ | Score: 1.00 | Key: 
+Plaintext: ¸¸¼¾¹°÷ð¤÷»¾¼²÷¶÷§¸¢¹³÷¸±÷µ¶´¸¹ | Score: 1.00 | Key: 
+Plaintext: §§£¡¦¯èï»è¤¡£­è©è¸§½¦¬è§®èª©«§¦ | Score: 1.00 | Key: 
+Plaintext: ¦¦¢ §®éîºé¥ ¢¬é¨é¹¦¼§­é¦¯é«¨ª¦§ | Score: 1.00 | Key: 
+Plaintext: ¥¥¡£¤­êí¹ê¦£¡¯ê«êº¥¿¤®ê¥¬ê¨«©¥¤ | Score: 1.00 | Key: 
+Plaintext: ¤¤ ¢¥¬ëì¸ë§¢ ®ëªë»¤¾¥¯ë¤­ë©ª¨¤¥ | Score: 1.00 | Key: 
+Plaintext: ££§¥¢«ìë¿ì ¥§©ì­ì¼£¹¢¨ì£ªì®­¯£¢ | Score: 1.00 | Key: 
+Plaintext: ¢¢¦¤£ªíê¾í¡¤¦¨í¬í½¢¸£©í¢«í¯¬®¢£ | Score: 1.00 | Key: 
+Plaintext: ¡¡¥§ ©îé½î¢§¥«î¯î¾¡» ªî¡¨î¬¯­¡ | Score: 1.00 | Key: 
+Plaintext: ¤¦¡¨ïè¼ï£¦¤ªï®ï¿ º¡«ï ©ï­®¬ ¡ | Score: 1.00 | Key: 
+Plaintext: ¯¯«©®§àç³à¬©«¥à¡à°¯µ®¤à¯¦à¢¡£¯® | Score: 1.00 | Key: 
+Plaintext: ®®ª¨¯¦áæ²á­¨ª¤á á±®´¯¥á®§á£ ¢®¯ | Score: 1.00 | Key: 
+Plaintext: ­­©«¬¥âå±â®«©§â£â²­·¬¦â­¤â £¡­¬ | Score: 1.00 | Key: 
+Plaintext: ¬¬¨ª­¤ãä°ã¯ª¨¦ã¢ã³¬¶­§ã¬¥ã¡¢ ¬­ | Score: 1.00 | Key: 
+Plaintext: ««¯­ª£äã·ä¨­¯¡ä¥ä´«±ª ä«¢ä¦¥§«ª | Score: 1.00 | Key: 
+Plaintext: ªª®¬«¢åâ¶å©¬® å¤åµª°«¡åª£å§¤¦ª« | Score: 1.00 | Key: 
+Plaintext: ©©­¯¨¡æáµæª¯­£æ§æ¶©³¨¢æ© æ¤§¥©¨ | Score: 1.00 | Key: 
+Plaintext: ¨¨¬®© çà´ç«®¬¢ç¦ç·¨²©£ç¨¡ç¥¦¤¨© | Score: 1.00 | Key: 
+Plaintext: »Øµ»ßØØØØØ | Score: 1.00 | Key:  
+Plaintext: ºÙ´ºÞÙÙÙÙÙ | Score: 1.00 | Key: ¡
+Plaintext: ¹Ú·¹ÝÚÚÚÚÚ | Score: 1.00 | Key: ¢
+Plaintext: ¸Û¶¸ÜÛÛÛÛÛ | Score: 1.00 | Key: £
+Plaintext: ¿Ü±¿ÛÜÜÜÜÜ | Score: 1.00 | Key: ¤
+Plaintext: ¾Ý°¾ÚÝÝÝÝÝ | Score: 1.00 | Key: ¥
+Plaintext: ½Þ³½ÙÞÞÞÞÞ | Score: 1.00 | Key: ¦
+Plaintext: ¼ß²¼Øßßßßß | Score: 1.00 | Key: §
+Plaintext: ³Ð½³×ÐÐÐÐÐ | Score: 1.00 | Key: ¨
+Plaintext: ²Ñ¼²ÖÑÑÑÑÑ | Score: 1.00 | Key: ©
+Plaintext: ±Ò¿±ÕÒÒÒÒÒ | Score: 1.00 | Key: ª
+Plaintext: °Ó¾°ÔÓÓÓÓÓ | Score: 1.00 | Key: «
+Plaintext: ·Ô¹·ÓÔÔÔÔÔ | Score: 1.00 | Key: ¬
+Plaintext: ¶Õ¸¶ÒÕÕÕÕÕ | Score: 1.00 | Key: ­
+Plaintext: µÖ»µÑÖÖÖÖÖ | Score: 1.00 | Key: ®
+Plaintext: ´×º´Ð××××× | Score: 1.00 | Key: ¯
+Plaintext: «È¥«ÏÈÈÈÈÈ | Score: 1.00 | Key: °
+Plaintext: ªÉ¤ªÎÉÉÉÉÉ | Score: 1.00 | Key: ±
+Plaintext: ©Ê§©ÍÊÊÊÊÊ | Score: 1.00 | Key: ²
+Plaintext: ¨Ë¦¨ÌËËËËË | Score: 1.00 | Key: ³
+Plaintext: ¯Ì¡¯ËÌÌÌÌÌ | Score: 1.00 | Key: ´
+Plaintext: ®Í ®ÊÍÍÍÍÍ | Score: 1.00 | Key: µ
+Plaintext: ­Î£­ÉÎÎÎÎÎ | Score: 1.00 | Key: ¶
+Plaintext: ¬Ï¢¬ÈÏÏÏÏÏ | Score: 1.00 | Key: ·
+Plaintext: £À­£ÇÀÀÀÀÀ | Score: 1.00 | Key: ¸
+Plaintext: ¢Á¬¢ÆÁÁÁÁÁ | Score: 1.00 | Key: ¹
+Plaintext: ¡Â¯¡ÅÂÂÂÂÂ | Score: 1.00 | Key: º
+Plaintext: Ã® ÄÃÃÃÃÃ | Score: 1.00 | Key: »
+Plaintext: §Ä©§ÃÄÄÄÄÄ | Score: 1.00 | Key: ¼
+Plaintext: ¦Å¨¦ÂÅÅÅÅÅ | Score: 1.00 | Key: ½
+Plaintext: ¥Æ«¥ÁÆÆÆÆÆ | Score: 1.00 | Key: ¾
+Plaintext: ¤Çª¤ÀÇÇÇÇÇ | Score: 1.00 | Key: ¿
+Plaintext: Û÷÷óñöÿ¸ÕÛ¿ë¸ôñóý¸ù¸è÷íöü¸÷þ¸úùû÷ö | Score: 1.00 | Key: À
+Plaintext: Úööòð÷þ¹ÔÚ¾ê¹õðòü¹ø¹éöì÷ý¹öÿ¹ûøúö÷ | Score: 1.00 | Key: Á
+Plaintext: Ùõõñóôýº×Ù½éºöóñÿºûºêõïôþºõüºøûùõô | Score: 1.00 | Key: Â
+Plaintext: Øôôðòõü»ÖØ¼è»÷òðþ»ú»ëôîõÿ»ôý»ùúøôõ | Score: 1.00 | Key: Ã
+Plaintext: ßóó÷õòû¼Ñß»ï¼ðõ÷ù¼ý¼ìóéòø¼óú¼þýÿóò | Score: 1.00 | Key: Ä
+Plaintext: Þòòöôóú½ÐÞºî½ñôöø½ü½íòèóù½òû½ÿüþòó | Score: 1.00 | Key: Å
+Plaintext: Ýññõ÷ðù¾ÓÝ¹í¾ò÷õû¾ÿ¾îñëðú¾ñø¾üÿýñð | Score: 1.00 | Key: Æ
+Plaintext: Üððôöñø¿ÒÜ¸ì¿óöôú¿þ¿ïðêñû¿ðù¿ýþüðñ | Score: 1.00 | Key: Ç
+Plaintext: Óÿÿûùþ÷°ÝÓ·ã°üùûõ°ñ°àÿåþô°ÿö°òñóÿþ | Score: 1.00 | Key: È
+Plaintext: Òþþúøÿö±ÜÒ¶â±ýøúô±ð±áþäÿõ±þ÷±óðòþÿ | Score: 1.00 | Key: É
+Plaintext: Ñýýùûüõ²ßÑµá²þûù÷²ó²âýçüö²ýô²ðóñýü | Score: 1.00 | Key: Ê
+Plaintext: Ðüüøúýô³ÞÐ´à³ÿúøö³ò³ãüæý÷³üõ³ñòðüý | Score: 1.00 | Key: Ë
+Plaintext: ×ûûÿýúó´Ù×³ç´øýÿñ´õ´äûáúð´ûò´öõ÷ûú | Score: 1.00 | Key: Ì
+Plaintext: ÖúúþüûòµØÖ²æµùüþðµôµåúàûñµúóµ÷ôöúû | Score: 1.00 | Key: Í
+Plaintext: Õùùýÿøñ¶ÛÕ±å¶úÿýó¶÷¶æùãøò¶ùð¶ô÷õùø | Score: 1.00 | Key: Î
+Plaintext: Ôøøüþùð·ÚÔ°ä·ûþüò·ö·çøâùó·øñ·õöôøù | Score: 1.00 | Key: Ï
+Plaintext: Ëççãáæï¨ÅË¯û¨äáãí¨é¨øçýæì¨çî¨êéëçæ | Score: 1.00 | Key: Ð
+Plaintext: Êææâàçî©ÄÊ®ú©åàâì©è©ùæüçí©æï©ëèêæç | Score: 1.00 | Key: Ñ
+Plaintext: ÉååáãäíªÇÉ­ùªæãáïªëªúåÿäîªåìªèëéåä | Score: 1.00 | Key: Ò
+Plaintext: Èääàâåì«ÆÈ¬ø«çâàî«ê«ûäþåï«äí«éêèäå | Score: 1.00 | Key: Ó
+Plaintext: Ïããçåâë¬ÁÏ«ÿ¬àåçé¬í¬üãùâè¬ãê¬îíïãâ | Score: 1.00 | Key: Ô
+Plaintext: Îââæäãê­ÀÎªþ­áäæè­ì­ýâøãé­âë­ïìîâã | Score: 1.00 | Key: Õ
+Plaintext: Íááåçàé®ÃÍ©ý®âçåë®ï®þáûàê®áè®ìïíáà | Score: 1.00 | Key: Ö
+Plaintext: Ìààäæáè¯ÂÌ¨ü¯ãæäê¯î¯ÿàúáë¯àé¯íîìàá | Score: 1.00 | Key: ×
+Plaintext: Ãïïëéîç ÍÃ§ó ìéëå á ðïõîä ïæ âáãïî | Score: 1.00 | Key: Ø
+Plaintext: Âîîêèïæ¡ÌÂ¦ò¡íèêä¡à¡ñîôïå¡îç¡ãàâîï | Score: 1.00 | Key: Ù
+Plaintext: Áííéëìå¢ÏÁ¥ñ¢îëéç¢ã¢òí÷ìæ¢íä¢àãáíì | Score: 1.00 | Key: Ú
+Plaintext: Àììèêíä£ÎÀ¤ð£ïêèæ£â£óìöíç£ìå£áâàìí | Score: 1.00 | Key: Û
+Plaintext: Çëëïíêã¤ÉÇ£÷¤èíïá¤å¤ôëñêà¤ëâ¤æåçëê | Score: 1.00 | Key: Ü
+Plaintext: Æêêîìëâ¥ÈÆ¢ö¥éìîà¥ä¥õêðëá¥êã¥çäæêë | Score: 1.00 | Key: Ý
+Plaintext: Åééíïèá¦ËÅ¡õ¦êïíã¦ç¦öéóèâ¦éà¦äçåéè | Score: 1.00 | Key: Þ
+Plaintext: Äèèìîéà§ÊÄ ô§ëîìâ§æ§÷èòéã§èá§åæäèé | Score: 1.00 | Key: ß
+Plaintext: û××ÓÑÖßõûËÔÑÓÝÙÈ×ÍÖÜ×ÞÚÙÛ×Ö | Score: 1.00 | Key: à
+Plaintext: úÖÖÒÐ×ÞôúÊÕÐÒÜØÉÖÌ×ÝÖßÛØÚÖ× | Score: 1.00 | Key: á
+Plaintext: ùÕÕÑÓÔÝ÷ùÉÖÓÑßÛÊÕÏÔÞÕÜØÛÙÕÔ | Score: 1.00 | Key: â
+Plaintext: øÔÔÐÒÕÜöøÈ×ÒÐÞÚËÔÎÕßÔÝÙÚØÔÕ | Score: 1.00 | Key: ã
+Plaintext: ÿÓÓ×ÕÒÛñÿÏÐÕ×ÙÝÌÓÉÒØÓÚÞÝßÓÒ | Score: 1.00 | Key: ä
+Plaintext: þÒÒÖÔÓÚðþÎÑÔÖØÜÍÒÈÓÙÒÛßÜÞÒÓ | Score: 1.00 | Key: å
+Plaintext: ýÑÑÕ×ÐÙóýÍÒ×ÕÛßÎÑËÐÚÑØÜßÝÑÐ | Score: 1.00 | Key: æ
+Plaintext: üÐÐÔÖÑØòüÌÓÖÔÚÞÏÐÊÑÛÐÙÝÞÜÐÑ | Score: 1.00 | Key: ç
+Plaintext: óßßÛÙÞ×ýóÃÜÙÛÕÑÀßÅÞÔßÖÒÑÓßÞ | Score: 1.00 | Key: è
+Plaintext: òÞÞÚØßÖüòÂÝØÚÔÐÁÞÄßÕÞ×ÓÐÒÞß | Score: 1.00 | Key: é
+Plaintext: ñÝÝÙÛÜÕÿñÁÞÛÙ×ÓÂÝÇÜÖÝÔÐÓÑÝÜ | Score: 1.00 | Key: ê
+Plaintext: ðÜÜØÚÝÔþðÀßÚØÖÒÃÜÆÝ×ÜÕÑÒÐÜÝ | Score: 1.00 | Key: ë
+Plaintext: ÷ÛÛßÝÚÓù÷ÇØÝßÑÕÄÛÁÚÐÛÒÖÕ×ÛÚ | Score: 1.00 | Key: ì
+Plaintext: öÚÚÞÜÛÒøöÆÙÜÞÐÔÅÚÀÛÑÚÓ×ÔÖÚÛ | Score: 1.00 | Key: í
+Plaintext: õÙÙÝßØÑûõÅÚßÝÓ×ÆÙÃØÒÙÐÔ×ÕÙØ | Score: 1.00 | Key: î
+Plaintext: ôØØÜÞÙÐúôÄÛÞÜÒÖÇØÂÙÓØÑÕÖÔØÙ | Score: 1.00 | Key: ï
+Plaintext: ëÇÇÃÁÆÏåëÛÄÁÃÍÉØÇÝÆÌÇÎÊÉËÇÆ | Score: 1.00 | Key: ð
+Plaintext: êÆÆÂÀÇÎäêÚÅÀÂÌÈÙÆÜÇÍÆÏËÈÊÆÇ | Score: 1.00 | Key: ñ
+Plaintext: éÅÅÁÃÄÍçéÙÆÃÁÏËÚÅßÄÎÅÌÈËÉÅÄ | Score: 1.00 | Key: ò
+Plaintext: èÄÄÀÂÅÌæèØÇÂÀÎÊÛÄÞÅÏÄÍÉÊÈÄÅ | Score: 1.00 | Key: ó
+Plaintext: ïÃÃÇÅÂËáïßÀÅÇÉÍÜÃÙÂÈÃÊÎÍÏÃÂ | Score: 1.00 | Key: ô
+Plaintext: îÂÂÆÄÃÊàîÞÁÄÆÈÌÝÂØÃÉÂËÏÌÎÂÃ | Score: 1.00 | Key: õ
+Plaintext: íÁÁÅÇÀÉãíÝÂÇÅËÏÞÁÛÀÊÁÈÌÏÍÁÀ | Score: 1.00 | Key: ö
+Plaintext: ìÀÀÄÆÁÈâìÜÃÆÄÊÎßÀÚÁËÀÉÍÎÌÀÁ | Score: 1.00 | Key: ÷
+Plaintext: ãÏÏËÉÎÇíãÓÌÉËÅÁÐÏÕÎÄÏÆÂÁÃÏÎ | Score: 1.00 | Key: ø
+Plaintext: âÎÎÊÈÏÆìâÒÍÈÊÄÀÑÎÔÏÅÎÇÃÀÂÎÏ | Score: 1.00 | Key: ù
+Plaintext: áÍÍÉËÌÅïáÑÎËÉÇÃÒÍ×ÌÆÍÄÀÃÁÍÌ | Score: 1.00 | Key: ú
+Plaintext: àÌÌÈÊÍÄîàÐÏÊÈÆÂÓÌÖÍÇÌÅÁÂÀÌÍ | Score: 1.00 | Key: û
+Plaintext: çËËÏÍÊÃéç×ÈÍÏÁÅÔËÑÊÀËÂÆÅÇËÊ | Score: 1.00 | Key: ü
+Plaintext: æÊÊÎÌËÂèæÖÉÌÎÀÄÕÊÐËÁÊÃÇÄÆÊË | Score: 1.00 | Key: ý
+Plaintext: åÉÉÍÏÈÁëåÕÊÏÍÃÇÖÉÓÈÂÉÀÄÇÅÉÈ | Score: 1.00 | Key: þ
+Plaintext: äÈÈÌÎÉÀêäÔËÎÌÂÆ×ÈÒÉÃÈÁÅÆÄÈÉ | Score: 1.00 | Key: ÿ
+Plaintext: Fjjnlkb%HF"v%iln`%d%ujpka%jc%gdfjk | Score: 1.00 | Key: ]
+Plaintext: fJJNLKBhfVILN@DUJPKAJCGDFJK | Score: 1.00 | Key: }
+Plaintext: &&" '.in:i% ",i(i9&<'-i&/i+(*&' | Score: 1.01 | Key: 
+Plaintext: *I$*NIIIII | Score: 1.01 | Key: 1
+Plaintext: Gkkomjc$IG#w$hmoa$e$tkqj`$kb$fegkj | Score: 1.01 | Key: \
+Plaintext: gKKOMJCigWHMOAETKQJ@KBFEGKJ | Score: 1.01 | Key: |
+Plaintext: !!%' )ni=n"'%+n/n>!; *n!(n,/-! | Score: 1.01 | Key: 
+Plaintext: -N#-INNNNN | Score: 1.01 | Key: 6
+Plaintext: Nbbfdcj-@N*~-adfh-l-}bxci-bk-olnbc | Score: 1.02 | Key: U
+Plaintext: nBBFDCJ`n^ADFHL]BXCIBKOLNBC | Score: 1.02 | Key: u
+Plaintext: <<8:=4st s?:86s2s#<&=7s<5s120<= | Score: 1.02 | Key: 
+Plaintext: 0S>0TSSSSS | Score: 1.02 | Key: +
+Plaintext: ''#!&/ho;h$!#-h)h8'=&,h'.h*)+'& | Score: 1.03 | Key: 
+Plaintext: +H%+OHHHHH | Score: 1.03 | Key: 0
+Plaintext: 004618x,364:>/0*1;09=><01 | Score: 1.03 | Key: 
+Plaintext: <_2<X_____ | Score: 1.03 | Key: '
+Plaintext: P||xz}t3^P4`3zxv3r3c|f}w3|u3qrp|} | Score: 1.03 | Key: K
+Plaintext: p\\XZ]T~p@_ZXVRC\F]W\UQRP\] | Score: 1.03 | Key: k
+Plaintext: 22643:}z.}1468}<}-2(39}2;}?<>23 | Score: 1.03 | Key: 
+Plaintext: >]0>Z]]]]] | Score: 1.03 | Key: %
+Plaintext: ==9;<5ru!r>;97r3r"='<6r=4r031=< | Score: 1.03 | Key: 
+
+Plaintext: 1R?1URRRRR | Score: 1.03 | Key: *
+Plaintext: Yuuqst}:WY=i:vsq:{:juot~:u|:x{yut | Score: 1.04 | Key: B
+Plaintext: yUUQST]wyIVSQ_[JUOT^U\X[YUT | Score: 1.04 | Key: b
+Plaintext: Xttpru|;VX<h;wrp~;z;ktnu;t};yzxtu | Score: 1.04 | Key: C
+Plaintext: xTTPRU\vxHWRP^ZKTNU_T]YZXTU | Score: 1.04 | Key: c
+Plaintext: W{{}zs4YW3g4x}q4u4d{azp4{r4vuw{z | Score: 1.05 | Key: L
+Plaintext: w[[_]ZSywGX]_QUD[AZP[RVUW[Z | Score: 1.05 | Key: l
+Plaintext: Txx|~yp7ZT0d7{~|r7v7gxbys7xq7uvtxy | Score: 1.06 | Key: O
+Plaintext: tXX\^YPztD[^\RVGXBYSXQUVTXY | Score: 1.06 | Key: o
+Plaintext: ++/-*#dc7d(-/!d%d4+1* d+"d&%'+* | Score: 1.07 | Key: 
+Plaintext: 'D)'CDDDDD | Score: 1.07 | Key: <
+Plaintext: Vzz~|{r5XV2f5y|~p5t5ez`{q5zs5wtvz{ | Score: 1.07 | Key: M
+Plaintext: vZZ^\[RxvFY\^PTEZ@[QZSWTVZ[ | Score: 1.07 | Key: m
+Plaintext: Jffb`gn)DJ.z)e`bl)h)yf|gm)fo)khjfg | Score: 1.07 | Key: Q
+Plaintext: jFFB@GNdjZE@BLHYF\GMFOKHJFG | Score: 1.07 | Key: q
+Plaintext: ,,(*-$cd0c/*(&c"c3,6-'c,%c!" ,- | Score: 1.09 | Key: 
+Plaintext: C. DCCCCC | Score: 1.09 | Key: ;
+Plaintext: ::><;2ur&u9<>0u4u%: ;1u:3u746:; | Score: 1.09 | Key: 
+Plaintext: 6U86RUUUUU | Score: 1.09 | Key: -
+Plaintext: ))-/(!fa5f*/-#f'f6)3("f) f$'%)( | Score: 1.10 | Key: 
+Plaintext: %F+%AFFFFF | Score: 1.10 | Key: >
+Plaintext: ##'%"+lk?l %')l-l<#9"(l#*l.-/#" | Score: 1.11 | Key: 
+Plaintext: /L!/KLLLLL | Score: 1.11 | Key: 4
+Plaintext: --)+,%be1b.+)'b#b2-7,&b-$b #!-, | Score: 1.12 | Key: 
+Plaintext: !B/!EBBBBB | Score: 1.12 | Key: :
+Plaintext: ??;9>7pw#p<9;5p1p ?%>4p?6p213?> | Score: 1.12 | Key: 
+Plaintext: 3P=3WPPPPP | Score: 1.12 | Key: (
+Plaintext: 88<>90wp$w;><2w6w'8"93w81w56489 | Score: 1.12 | Key: 
+Plaintext: 4W:4PWWWWW | Score: 1.12 | Key: /
+Plaintext: [wwsqv8U[?k8tqs}8y8hwmv|8w~8zy{wv | Score: 1.12 | Key: @
+Plaintext: {WWSQV_u{KTQS]YHWMV\W^ZY[WV | Score: 1.12 | Key: `
+Plaintext: Uyy}xq6[U1e6z}s6w6fycxr6yp6twuyx | Score: 1.12 | Key: N
+Plaintext: uYY]_XQ{uEZ_]SWFYCXRYPTWUYX | Score: 1.12 | Key: n
+Plaintext: \pptvqx?R\8l?svtz?~?opjq{?py?}~|pq | Score: 1.13 | Key: G
+Plaintext: |PPTVQXr|LSVTZ^OPJQ[PY]^\PQ | Score: 1.13 | Key: g
+Plaintext: $$ "%,kl8k'" .k*k;$>%/k$-k)*($% | Score: 1.13 | Key: 
+Plaintext: (K&(LKKKKK | Score: 1.13 | Key: 3
+Plaintext: ((,.) g`4g+.,"g&g7(2)#g(!g%&$() | Score: 1.14 | Key: 
+Plaintext: $G*$@GGGGG | Score: 1.14 | Key: ?
+Plaintext: 66207>y~*y502<y8y)6,7=y6?y;8:67 | Score: 1.14 | Key: 
+Plaintext: :Y4:^YYYYY | Score: 1.14 | Key: !
+Plaintext: %%!#$-jm9j&#!/j+j:%?$.j%,j(+)%$ | Score: 1.15 | Key: 
+Plaintext: ""&$#*mj>m!$&(m,m="8#)m"+m/,."# | Score: 1.15 | Key: 
+Plaintext: )J')MJJJJJ | Score: 1.15 | Key: 2
+Plaintext: .M .JMMMMM | Score: 1.15 | Key: 5
+Plaintext: ]qquwpy>S]9m>rwu{>>nqkpz>qx>|}qp | Score: 1.16 | Key: F
+Plaintext: }QQUWPYs}MRWU[_NQKPZQX\_]QP | Score: 1.16 | Key: f
+Plaintext: 77316?x+x413=x9x(7-6<x7>x:9;76 | Score: 1.17 | Key:  
+Plaintext: ;X5;_XXXXX | Score: 1.17 | Key:  
+Plaintext: 55134=z})z631?z;z*5/4>z5<z8;954 | Score: 1.17 | Key: 
+Plaintext: 9Z79]ZZZZZ | Score: 1.17 | Key: "
+Plaintext: >>:8?6qv"q=8:4q0q!>$?5q>7q302>? | Score: 1.18 | Key: 	
+Plaintext: 99=?81vq%v:?=3v7v&9#82v90v47598 | Score: 1.18 | Key: 
+Plaintext: 2Q<2VQQQQQ | Score: 1.18 | Key: )
+Plaintext: 5V;5QVVVVV | Score: 1.18 | Key: .
+Plaintext: Zvvrpw~9TZ>j9upr|9x9ivlw}9v9{xzvw | Score: 1.18 | Key: A
+Plaintext: zVVRPW^tzJUPR\XIVLW]V_[XZVW | Score: 1.18 | Key: a
